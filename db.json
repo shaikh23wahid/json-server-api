@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "a2fcc986-675d-46a5-b59e-1566c0f105c6",
+      "name": "UMANG joshi",
+      "email": "shaikh23wahid@gmail.com"
+    },
+    {
+      "id": "728861e7-ca61-4dc8-9912-939f98a2f96f",
+      "name": "Testttt",
+      "email": "shaikhuzma022@gmail.com"
+    },
+    {
+      "id": "3ea90b68-3d8e-4b89-927f-4975e1915012",
+      "name": "Nilesh SIngh",
+      "email": "nilesh@gmail.com"
+    },
+    {
+      "id": "4a7d5754-3398-4270-9585-7b3305551697",
+      "name": "Wahid Akhter Shaikh",
+      "email": "shaikh23wahid@gmail.com"
+    },
+    {
+      "id": "bab5ff22-ac8b-46d0-81e2-9686ef306f4e",
+      "name": "Anuj ",
+      "email": "anuj@gmail.com"
+    }
+  ]
+}
